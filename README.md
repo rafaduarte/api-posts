@@ -5,6 +5,7 @@
 </p>
 
 ## About Laravel
+https://docs.google.com/document/d/14KhQ4IK_8bX96fnbksWUQYr7HH3sboDPgIbKqNmy410/edit?usp=sharing
 
 1º criar o model junto com o controller factories e migrations:
 php artisan make:model invoice -fm
